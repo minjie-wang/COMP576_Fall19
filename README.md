@@ -1,1 +1,2 @@
-# COMP576_Fall19
+# COMP576
+# Fall 2019
